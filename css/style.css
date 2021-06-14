@@ -1,0 +1,25 @@
+img{
+    width:180px
+}
+.brand{
+    background-color:#FFF9F4 ;
+}
+img.group-img{
+    width:507px;
+    padding:0px 0px 50px 0px;
+}
+.text{
+    padding-left: 344px;
+    padding-top: 92px;
+}
+.big-text{
+    color:#FA804C
+}
+.image-5{
+    border: 3px;
+    border-radius:20px;
+    background-color:#F1F1F1;
+    width: 100%;
+}
+.d-flex{
+}
